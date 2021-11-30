@@ -1,0 +1,22 @@
+body {
+  padding: 10px;
+}
+
+.counter {
+  border: 1px solid black;
+  padding: 5px;
+  display: inline-block;
+  margin: 5px;
+}
+
+#counter1 {
+  background-color: blue;
+}
+
+#counter2 {
+  background-color: green;
+}
+
+#counter3 {
+  background-color: red;
+}
